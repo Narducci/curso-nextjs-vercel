@@ -9,4 +9,7 @@ Capitulo 02 concluido
 Capitulo 03 concluido
 Capitulo 04 concluido
 Capitulo 05 concluido
-Capitulo 05 concluido
+Capitulo 06 concluido
+Capitulo 07 concluido
+Capitulo 08 concluido
+
