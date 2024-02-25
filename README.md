@@ -15,5 +15,6 @@ Capitulo 08 concluido
 Capitulo 09 concluido
 Capitulo 10 opcional (só teoria)
 Capitulo 11 em andamento (preventivo-debounce)
+Capitulo 11 concluido (sem os botões da pagniação)
 
 
